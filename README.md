@@ -1,4 +1,4 @@
-Voice communication is the main way that pilots 
+"Voice communication is the main way that pilots 
 and Air Traffic Controllers (ATCos) exchange information. 
 Recently, a number of projects have looked into the use of 
 Automatic Speech Recognition (ASR) technology to 
@@ -20,3 +20,5 @@ classification and obtained good results but BERT and Bi
 LSTM and CRF performed well when compared to other 
 models with f1-score and precision of approximately 98% and 
 more. 
+
+https://ieeexplore.ieee.org/document/10440794"
